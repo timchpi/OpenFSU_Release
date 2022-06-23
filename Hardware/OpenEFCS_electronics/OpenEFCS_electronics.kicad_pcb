@@ -2196,7 +2196,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.12)) (justify mirror))
       (tstamp 7485ffbc-cd1b-4c35-98c0-cc156dec89c7)
     )
-    (fp_text value "MBR0530" (at 0 -2.1 90) (layer "B.Fab")
+    (fp_text value "GOODWORK K14" (at 0 -2.1 90) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 38610dec-5a0e-4d33-8346-ac77e4348226)
     )
